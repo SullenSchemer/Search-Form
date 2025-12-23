@@ -335,10 +335,6 @@ Potential improvements:
 
 This project is licensed under the MIT License.
 
-## 👥 Authors
-
-- **Sharon Wanyana** - Office of Research, American University
-
 ## 🙏 Acknowledgments
 
 - Built with guidance from Claude (Anthropic)
@@ -351,7 +347,6 @@ For questions or issues:
 1. Check the Troubleshooting section above
 2. Review Vercel logs for error details
 3. Open an issue on GitHub
-4. Email: sw1026a@american.edu/ LinkedIn:www.linkedin.com/in/sharonwanyana 
 
 ## 🔗 Related Links
 
