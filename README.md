@@ -335,12 +335,6 @@ Potential improvements:
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
-
-- Built with guidance from Claude (Anthropic)
-- Powered by Airtable, Vercel, and Jotform
-- Fuzzy search by Fuse.js
-
 ## 📞 Support
 
 For questions or issues:
