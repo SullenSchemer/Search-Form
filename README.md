@@ -358,12 +358,12 @@ For questions or issues:
 ## 🆕 Version History
 
 ### v2.0.0 (October 2025)
-- ✨ Added multi-field search (keyword, discipline, funder, deadline)
-- ✨ Added discipline dropdown with 6 categories
-- ✨ Added deadline filtering
-- ✨ Added filter summary display in results
-- 🎨 Improved results page with filter indicators
-- 📝 Updated documentation
+- Added multi-field search (keyword, discipline, funder, deadline)
+- Added discipline dropdown with 6 categories
+- Added deadline filtering
+- Added filter summary display in results
+- Improved results page with filter indicators
+- Updated documentation
 
 ### v1.0.0 (October 2025)
 - 🚀 Initial release
@@ -371,3 +371,4 @@ For questions or issues:
 - ✅ Jotform integration
 - ✅ Airtable connection
 - ✅ Vercel deployment
+
