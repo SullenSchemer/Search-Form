@@ -1,4 +1,4 @@
-# GFAD - Funding Opportunities Search
+# Funding Opportunities Search Form
 
 A fuzzy search middleware that connects Jotform to Airtable, enabling users to search for research funding opportunities with intelligent matching.
 
